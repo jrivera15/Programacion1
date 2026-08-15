@@ -1,4 +1,4 @@
-\# Curso: Programación I
+# Curso: Programación I
 
 
 
@@ -10,13 +10,13 @@ Universidad de Sonora
 
 
 
-\## 📄 Descripción
+## 📄 Descripción
 
 Este repositorio contiene material didáctico para el curso, así como ejercicios y tareas correspondientes.
 
 
 
-\## ✉️ Contacto
+## ✉️ Contacto
 
 L.C.C. María Janneth Rivera Reyna
 
